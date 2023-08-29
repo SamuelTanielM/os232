@@ -5,5 +5,5 @@ ZCZC  W00  20  L00 SCELE related
 ZCZC  W00  150  L01 Class session related
 ZCZC  W00  20  L02 GitHub and git related, including commit, push, pull
 ZCZC  W00  10  L03 GitHub Pages related
-
+ZCZC  W00  180 L04 Trying the week 1 assignment, but downloading takes hours.
 
