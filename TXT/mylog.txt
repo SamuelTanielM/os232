@@ -1,12 +1,7 @@
 # START: Tue 29 Aug 2023 11:40
-# ##########################################
-# https://osp4diss.vlsm.org/ETC/logCodes.txt
-# ##########################################
-#
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
-
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC  W00  20  L00 SCELE related
 ZCZC  W00  150  L01 Class session related
 ZCZC  W00  20  L02 GitHub and git related, including commit, push, pull
