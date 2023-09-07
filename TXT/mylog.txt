@@ -1,14 +1,24 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC  W00  20  L00 SCELE related
-ZCZC  W00  100  L01 Class session related
-ZCZC  W00  20  L02 GitHub and git related, including commit, push, pull
-ZCZC  W00  10  L03 GitHub Pages related
-ZCZC  W00  180 L04 Trying the week 1 assignment, but downloading takes hours.
-ZCZC  W00  100  L05 Class session related
-ZCZC  W01  180  L06 Week 1 assignment related, debian setup, etc
-ZCZC  W01  100  L07 Class session related
-ZCZC  W01  100  L08 Week 1 assignment related, i got a fever this week
-ZCZC  W01  100  L09 Class session related
-ZCZC  W01  180  L10 Week 1 assignment related
+
+ZCZC  W00  20  L01 SCELE related
+ZCZC  W00  100  L02 Class session related
+ZCZC  W00  20  L03 GitHub and git related, including commit, push, pull
+ZCZC  W00  10  L04 GitHub Pages related
+ZCZC  W00  180 L11 Trying the week 1 assignment, but downloading takes hours.
+ZCZC  W00  100  L02 Class session related
+ZCZC  W00  60  L80  Watching my happy marriage anime
+ZCZC  W00  60  L87  House Chore
+ZCZC  W00  180  L21  Trying substance painter for blender
+
+ZCZC  W01  50  L31 VirtualBox: Install GNU/linux
+ZCZC  W01  100  L11 Week 1 assignment related, debian setup, etc
+ZCZC  W01  30  L80 Watching youtube related to os and optimization for games
+ZCZC  W01  10  L08  OS Chat related with friend
+ZCZC  W01  20  L64 Helping friends
+ZCZC  W01  100  L02 Class session related
+ZCZC  W01  100  L11 Week 1 assignment related, I got a fever this week
+ZCZC  W01  100  L02 Class session related
+ZCZC  W01  180  L11 Week 1 assignment related
+ZCZC  W01  60  L87  House Chore
