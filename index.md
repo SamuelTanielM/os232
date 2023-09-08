@@ -3,16 +3,15 @@ layout: "layout"
 ---
 
 <br>
-This is OS232 and I am Sam, {{https://github.com/SamuelTanielM/}}.
+This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
 
 <br>
 ## List Example
 
-* [HOME]({{https://github.com/SamuelTanielM/os232/}}/)
-* [LINKS]({{https://github.com/SamuelTanielM/os232/blob/master/links.md}}/LINKS/)
-* [GitHub]({{https://github.com/SamuelTanielM/}})
-
+* [HOME]({{ site.baseurl }}/)
+* [LINKS]({{ site.baseurl }}/LINKS/)
+* [GitHub]({{ site.urlgithub }})
 <br>
 ## Table Example
 
-| [HOME]({{https://github.com/SamuelTanielM/os232/}}/) | [LINKS]({{https://github.com/SamuelTanielM/os232/blob/master/links.md}}/LINKS/) | [GitHub]({{https://github.com/SamuelTanielM/}}) |
+| [HOME]({{ site.baseurl }}/) | [LINKS]({{ site.baseurl }}/LINKS/) | [GitHub]({{ site.urlgithub }}) |
