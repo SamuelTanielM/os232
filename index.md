@@ -6,4 +6,4 @@ This is OS232 Index and I am SamuelTanielM, https://github.com/SamuelTanielM/os2
 
 * [LOG](TXT/mylog.txt)
 * [LINKS](LINKS/)
-* [GitHub]({https://github.com/SamuelTanielM/os232})
+* [GitHub](https://github.com/SamuelTanielM/os232)
