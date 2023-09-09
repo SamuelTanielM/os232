@@ -2,16 +2,8 @@
 layout: "layout"
 ---
 
-<br>
-This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+This is OS232 Index and I am SamuelTanielM, https://github.com/SamuelTanielM/os232.
 
-<br>
-## List Example
-
-* [LOG]({{ site.baseurl }}/TXT/mylog.txt)
-* [LINKS]({{ site.baseurl }}/LINKS/)
-* [GitHub]({{ site.urlgithub }})
-<br>
-## Table Example
-
-| [LOG]({{ site.baseurl }}/TXT/mylog.txt) | [LINKS]({{ site.baseurl }}/LINKS/) | [GitHub]({{ site.urlgithub }}) |
+* [LOG](TXT/mylog.txt)
+* [LINKS](LINKS/)
+* [GitHub]({https://github.com/SamuelTanielM/os232})
