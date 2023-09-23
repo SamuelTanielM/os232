@@ -16,3 +16,6 @@ It helps me discover new ways to use Linux commands. For example opening files a
 
 4. [Download Linux Terminal in Windows](https://www.youtube.com/watch?v=LLlfLpvQg04)<br>
 This helps me in  removing inconveniences in turning on and off Debian to explore Linux commands.
+
+5. [How Virtual Machines Work](https://www.youtube.com/watch?v=mQP0wqNT_DI)<br>
+Watching this video, deepen my understanding about how virtual machine like Debian works.
