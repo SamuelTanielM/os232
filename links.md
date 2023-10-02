@@ -3,7 +3,7 @@ layout: "layout"
 permalink: /LINKS/
 ---
 <hr>
-# LINKS
+<h1>LINKS 🌐</h1>
 
 1. 📝[Ringkasan OS](https://infonw.laurensstoop.nl/index.html)<br>
 It has a good summary of OS and illustrations that help me understand the course.
