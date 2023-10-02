@@ -2,10 +2,18 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC  W04  30  L01 SCELE/Discord related
+ZCZC  W04  100  L14 Week 4 assignment related
+ZCZC  W04  100  L02 CLASSROOM/ZOOM meetings related
+ZCZC  W04  100  L14 Week 4 assignment related
+ZCZC  W04  180  L21  Doing more art
+ZCZC  W04  20  L64 Helping friends
+ZCZC  W04  180  L70 Studying for other courses.
+
 ZCZC  W03  30  L01 SCELE/Discord related
-ZCZC  W03  100  L12 Week 2 assignment related
+ZCZC  W03  100  L13 Week 3 assignment related
 ZCZC  W03  100  L02 CLASSROOM/ZOOM meetings related
-ZCZC  W03  100  L12 Week 2 assignment related
+ZCZC  W03  100  L13 Week 3 assignment related
 ZCZC  W03  100  L02 CLASSROOM/ZOOM meetings related
 ZCZC  W03  180  L05 Quiz related including studying
 ZCZC  W03  180  L21  Trying pixel art in blender
