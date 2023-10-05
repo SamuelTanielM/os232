@@ -35,4 +35,14 @@ Cybersecurity, Cryptography, Network Security, Data Comm, Computer Organization,
 10. 📀[GeeksforGeeks OS](https://www.geeksforgeeks.org/operating-systems/)<br>
 So many resources are on this website. it has a good summary of the courses we learn, and a quick read is helpful for the quiz.
 
+11. ©️[C and C++ in 5 days](http://www.box.net/shared/static/qqtm40rory.pdf)<br>
+A good tutorial for quickly getting up to speed on C. By Philip Machanick, University of the Witwatersrand, South Africa.
+
+12. 🧑‍💻[Learning C easily for Java Programmers](http://www.box.net/shared/static/iucxqxdt09.pdf)<br>
+If you know Java, this introduction will quickly make it easy for you to read C. By Mark Handley, University College, London
+
+13. 💻[Operating System Technical Comparison](http://www.osdata.com/)<br>
+Includes a substantial amount of information on a variety of operating systems.
+
+
 <hr>
