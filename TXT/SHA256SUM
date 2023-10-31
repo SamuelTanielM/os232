@@ -1,36 +1,10 @@
 aa751320d49ea4542cbcbbbe1cde084cca77b858c1c52fe5014745c4bffcb279  myW02.tar.xz.asc
 7398d92cf8cbe8b985f15404924a3583a4335c015549750e607dcb21e16b336e  myW03.tar.xz.asc
 95651587461e9d9e7a185c5d93392504630f5f88c36925d8158ace124596598f  myW04.tar.xz.asc
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-e720703631043d0933139d97f0bf4f0d7ef75bcc83415d1c52253ad993b95640  myW05.tar.xz.asc
-b71cf7b610e5491daf13a3d3bc54e93dbb61e13a8a6b41d57b3b5d5c25d422b7  myW06.tar.xz.asc
-f6390bf0095830457d09d3e53ca331e69db19b440ae87198961197c4e59e81ea  mylog.txt
-afd24a948fa90aaa07b4a72470a50aa0ec9160c2e374eb86315d035c8924a733  mypubkey.txt
-46e2fb5c52e0f400358c1e222f0274ede74ebd031105d39297941ba105629fd4  myrank.txt
-ab4c72df89e9a187b4458de578cf5ff09148ce454963bef774099a84d2b3d0d0  myupdate.txt
-=======
-=======
->>>>>>> parent of 500a250 (sorry update tugas 5)
-=======
->>>>>>> parent of 500a250 (sorry update tugas 5)
-=======
->>>>>>> parent of 500a250 (sorry update tugas 5)
 9c099801527b906665d0d71d4a7ac06ada35318087253ab51db594d727c0b94c  myW05.tar.xz.asc
-9235ece7bddb6c8ae77544742f291ab8e8d6ec6855f2c39d651b0b465db0f1f1  mylog.txt
+8877b21b6115e3a7a5035e575d43e895d36a29f18eb09178856a48fe097dbb67  myW06.tar.xz.asc
+f3f339ff1ff1a5a97d32d47ae497795716919854c49716bf8e10bc0f762e52ac  mylog.txt
 afd24a948fa90aaa07b4a72470a50aa0ec9160c2e374eb86315d035c8924a733  mypubkey.txt
-8fabad4cbaa2b1ce71e606a364a30e612ac7d0f930a39a08a0d24fb56f3941d6  myrank.txt
-d0eefff1c06b19eb3361e20dc2174f3e3e689ac8aa3e95092fb1e9fde5e8a84c  myupdate.txt
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 500a250 (sorry update tugas 5)
-=======
->>>>>>> parent of 500a250 (sorry update tugas 5)
-=======
->>>>>>> parent of 500a250 (sorry update tugas 5)
-=======
->>>>>>> parent of 500a250 (sorry update tugas 5)
+9ffd58113cd94e972f65d3808c449f0e80a7378ed0e00ab38e290bd5bdcecd9c  myrank.txt
+0c1e8e9757d7b2e65f24fd4f954f2836a087aa9bec484906cbf8a3e986c81a4e  myupdate.txt
 b3da065cb29ebd76f68fceca6700850efe395b537f1d816619992ecdaf921f6d  myscript.sh
