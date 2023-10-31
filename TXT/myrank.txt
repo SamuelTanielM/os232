@@ -1,10 +1,13 @@
 # WEEKLY 3 of 10 RANKS
+<<<<<<< HEAD
 ZCZC W06 rachelmathilda
 ZCZC W06 TomoriNow
 ZCZC W06 MightyZanark
 ZCZC W05 murifq
 ZCZC W05 RobertBenyamin
 ZCZC W05 KronosDP
+=======
+>>>>>>> parent of ab69f13 (Update myrank.txt)
 ZCZC W04 Akmal76
 ZCZC W04 nabilmuafa 
 ZCZC W04 novrizair
