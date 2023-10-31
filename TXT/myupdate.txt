@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 OS232W06
+=======
+OS232W04
+>>>>>>> parent of 500a250 (sorry update tugas 5)
 =======
 OS232W04
 >>>>>>> parent of 500a250 (sorry update tugas 5)

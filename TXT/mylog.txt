@@ -3,6 +3,7 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ZCZC  W06  30  L01 SCELE/Discord related
 ZCZC  W06  100  L16 Week 5 assignment related
 ZCZC  W06  100  L16 Week 5 assignment related
@@ -10,6 +11,8 @@ ZCZC  W06  180  L21  Doing more art
 ZCZC  W06  20  L64 Helping friends
 ZCZC  W06  180  L70 Studying for other courses.
 ZCZC  W06  180  L80 Waching: CastleVania
+=======
+>>>>>>> parent of 500a250 (sorry update tugas 5)
 =======
 >>>>>>> parent of 500a250 (sorry update tugas 5)
 =======
