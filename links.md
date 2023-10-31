@@ -44,5 +44,10 @@ If you know Java, this introduction will quickly make it easy for you to read C.
 13. 💻[Operating System Technical Comparison](http://www.osdata.com/)<br>
 Includes a substantial amount of information on a variety of operating systems.
 
+14. 📃[Dr. Britton OS Slide](http://www.ecst.csuchico.edu/~bjuliano/Architecture/BrittonNotes/britton_slides.zip)<br>
+Slide by Dr. Britton on about OS.
+
+15. 📜[Paper on Applications of OS to boost your spirit!](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/mjFlynn1997.pdf)<br>
+On this paper, it explains the future of computer design and help us understand its fundamentals.
 
 <hr>
