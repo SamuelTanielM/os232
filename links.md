@@ -50,4 +50,10 @@ Slide by Dr. Britton on about OS.
 15. 📜[Paper on Applications of OS to boost your spirit!](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/mjFlynn1997.pdf)<br>
 On this paper, it explains the future of computer design and help us understand its fundamentals.
 
+16. 🔥[M.J Flynn Reflections in Computer Engineering](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/mjFlynn1997reflect.pdf)<br>
+His reflection in computer engineering, a good perspective in engineering.
+
+17. ⭕[R. Ronen et al. Comming Challenges in Microarchitecture and Architecture](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/rRonen2001.pdf)<br>
+Challenges in computer engineering
+
 <hr>
