@@ -56,4 +56,10 @@ His reflection in computer engineering, a good perspective in engineering.
 17. ⭕[R. Ronen et al. Comming Challenges in Microarchitecture and Architecture](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/rRonen2001.pdf)<br>
 Challenges in computer engineering
 
+18. 📰[Dependence Based Prefetching for Linked Data Structures](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/aRoth1998.pdf)<br>
+Optimizing memory accesses in linked data structures through dependence-based prefetching, resulting in significant speedup for pointer-intensive programs.
+
+19. 📜[Design of Computer](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/jThornton1970_CDC6600.pdf)<br>
+Learn about insides of computer.
+
 <hr>

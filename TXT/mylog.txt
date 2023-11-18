@@ -2,6 +2,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC  W08  30  L01 SCELE/Discord related
+ZCZC  W08  100  L18 Week 8 assignment related
+ZCZC  W08  100  L18 Week 8 assignment related
+ZCZC  W08  180  L21  Doing more art
+ZCZC  W08  20  L64 Helping friends
+ZCZC  W08  360  L70 Studying for other courses.
+ZCZC  W08  180  L80 Waching: Apothecary Diaries
+ZCZC  W08  480  L98 Compfest
+
 ZCZC  W07  100  L02 CLASSROOM/ZOOM meetings related
 ZCZC  W07  30  L01 SCELE/Discord related
 ZCZC  W07  100  L17 Week 7 assignment related
