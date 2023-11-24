@@ -62,4 +62,13 @@ Optimizing memory accesses in linked data structures through dependence-based pr
 19. 📜[Design of Computer](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/jThornton1970_CDC6600.pdf)<br>
 Learn about insides of computer.
 
+21. 💻[Performance analysis of parallel systems: Approaches and open problems](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/dReed1998perf_analysis.pdf)<br>
+stumble upon it while making lfs searching to know what does parallel make is, its unrelated but cool.
+
+22. 🛠️[RAID-x: A new distributed disk array for I/O-centric cluster computing](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/kHwang2001raidx.pdf)<br>
+Learning raid-x since in the class there's a problem about it, i search for it and found this. Hope this helps.
+
+23. 💽[RAID-II: Design and implementation of a large scale disk array controller](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/rKatz1993raidii.pdf)<br>
+Learn about desing of Raid II.
+
 <hr>
