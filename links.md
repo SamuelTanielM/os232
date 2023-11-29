@@ -71,4 +71,13 @@ Learning raid-x since in the class there's a problem about it, i search for it a
 23. 💽[RAID-II: Design and implementation of a large scale disk array controller](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/rKatz1993raidii.pdf)<br>
 Learn about desing of Raid II.
 
+24. 📝[Video LFS](https://www.youtube.com/watch?v=nqpSImVXt3A)<br>
+Very important video that has saved me tons of time and from errors.
+
+25. 🃏[LFS tips and tricks](https://www.lfs.net/forum/thread/11154-Driving-Tips-%28a-must-read%29)<br>
+Some tips on LFS
+
+26. 🧑<200d>💻[Virtual Memory in Contemporary Microprocessors](http://www.ecst.csuchico.edu/~bjuliano/csci380/Papers/bJacob1998.pdf)<br>
+Something about virtual memory
+
 <hr>
